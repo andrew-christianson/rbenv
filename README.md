@@ -2,7 +2,7 @@
 
 Use rbenv to pick a Ruby version for your application and guarantee
 that your development environment matches production. Put rbenv to work
-with [Bundler](http://gembundler.com/) for painless Ruby upgrades and
+with [Bundler](http://bundler.io/) for painless Ruby upgrades and
 bulletproof deployments.
 
 **Powerful in development.** Specify your app's Ruby version once,
@@ -378,7 +378,7 @@ Displays the currently active Ruby version, along with information on
 how it was set.
 
     $ rbenv version
-    1.8.7-p352 (set by /Volumes/37signals/basecamp/.ruby-version)
+    1.9.3-p327 (set by /Users/sam/.rbenv/version)
 
 ### rbenv rehash
 
